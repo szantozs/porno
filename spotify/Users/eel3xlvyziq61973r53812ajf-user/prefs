@@ -1,0 +1,8 @@
+audio.sync_bitrate_enumeration=5
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[]"
+connect.mdns_devices="[{\"created_timestamp\":1790614886,\"device_id\":\"\",\"device_info\":{\"addresses\":[\"192.168.193.204\"],\"availability\":\"any\",\"device_type\":\"unknown\",\"get_info_json\":\"\",\"is_group\":false,\"should_send_wol\":false},\"discovery_name\":\"Spotify Desktop Launcher._spotify-connect._tcp.local\",\"display_name\":\"\",\"hostname\":\"DESKTOP-TR1BK2K.local\",\"last_seen\":1790616893,\"page_uri\":\"/zc\",\"port\":49176,\"public_ip\":\"77.234.78.156\",\"required_device_info\":{\"public_key\":\"\",\"remote_name\":\"\",\"version\":\"\"},\"ttl\":60,\"txt_records\":{\"CPath\":\"/zc\"}},{\"created_timestamp\":1789315246,\"device_id\":\"\",\"device_info\":{\"addresses\":[\"192.168.193.204\"],\"availability\":\"any\",\"device_type\":\"unknown\",\"get_info_json\":\"\",\"is_group\":false,\"should_send_wol\":false},\"discovery_name\":\"Spotify Desktop Launcher._spotify-connect._tcp.local\",\"display_name\":\"\",\"hostname\":\"DESKTOP-TR1BK2K.local\",\"last_seen\":1789407550,\"page_uri\":\"/zc\",\"port\":56904,\"public_ip\":\"80.95.70.220\",\"required_device_info\":{\"public_key\":\"\",\"remote_name\":\"\",\"version\":\"\"},\"ttl\":60,\"txt_records\":{\"CPath\":\"/zc\"}}]"
+audio.play_bitrate_non_metered_enumeration=5
+audio.play_bitrate_enumeration=5
+ui.hide_hpto=true
+ui.minimize_to_tray=true

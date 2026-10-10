@@ -1,0 +1,3 @@
+[widget.winapps_vm]
+type = "scripted"
+script = "~/.config/noctalia/scripts/winapps_vm.lua"
